@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ipinate.github.io/sitemap
+Sitemap: https://ipinate.github.io/app/sitemap
+Sitemap: https://ipinate.github.io/assets/sitemap
+Sitemap: https://ipinate.github.io/css/sitemap
+Sitemap: https://ipinate.github.io/includes/sitemap
+Sitemap: https://ipinate.github.io/item/sitemap
+Sitemap: https://ipinate.github.io/src/sitemap
